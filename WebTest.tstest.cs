@@ -49,7 +49,7 @@ namespace TestProject1
         [CodedStep(@"New Coded Step")]
         public void WebTest_CodedStep()
         {
-          Log.WriteLine("It works!");
+          Log.WriteLine("It works!!!");
         }
     }
 }
